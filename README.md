@@ -1,7 +1,7 @@
 # downloader
 メインプログラム:downloader.py    
-  モジュールプログラム:googledownload.py 、check.py    
-別途必要モジュールのインストールが必要   
+  モジュールプログラム:googledownload.py 、check.py         
+別途必要モジュールのインストールが必要  　　 
     
 別途必要なソフトウェアのインストール方法        
   http://taku910.github.io/mecab/#download 　からmecab-0.996.exeをダウンロードし実行。    
