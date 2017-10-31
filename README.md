@@ -1,7 +1,6 @@
 # downloader
 メインプログラム:downloader.py    
-  モジュールプログラム:googledownload.py    
-                    check.py    
+  モジュールプログラム:googledownload.py 、check.py    
 別途必要モジュールのインストールが必要   
     
 別途必要なソフトウェアのインストール方法        
